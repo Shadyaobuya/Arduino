@@ -1,5 +1,5 @@
 # Arduino
-Question 1: [link to my Tinkercad](https://www.tinkercad.com/things/cTIa9iM52zC-neat-migelo/editel)
+Question 1: [link to my Tinkercad](https://www.tinkercad.com/things/cTIa9iM52zC-neat-migelo/editel) or view the servomortor.cpp file
 
 Question 2:
 1. Elevators- commonly use servo motors to safely and smoothly move passengers in some tall buildings. 
